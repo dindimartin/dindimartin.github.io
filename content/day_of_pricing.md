@@ -4,17 +4,14 @@ Summary: Day-of Details Base Prices
 CoverImage: images/posts/craft_cover.jpg
 Thumbnail: images/posts/craft_thumb.jpg
 
-Design Fee - $150
-Welcome signage - Price varies depending on size and surface
-Seating chart - Price varies depending on size and surface
-Spot Calligraphy for Menu - $100+
-Spot Calligraphy for Invitation Suite - $250+
+<h4><br/>
+Design Fee - $150<br/>
+Welcome signage - Price varies depending on size and surface<br/>
+Seating chart - Price varies depending on size and surface<br/>
+Spot Calligraphy for Menu - $100+<br/>
+Spot Calligraphy for Invitation Suite - $250+<br/>
 <br/>
-Escort card - $3.00+
-Place card - $3.00+
-Table numbers - $5.00+
-Food label -$3.00+
-
-<p align="center">
-    <img src="images/posts/craft_fearless.jpg" alt="" class="img-responsive"/></a>
-</p>
+Escort card - $3.00+<br/>
+Place card - $3.00+<br/>
+Table numbers - $3.00+<br/>
+Food label -$3.00+<br/>
